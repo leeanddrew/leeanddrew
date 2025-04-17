@@ -25,7 +25,7 @@ I'm a Data Science Master's student at [Harvard SEAS](https://seas.harvard.edu/)
 
 ### 📌 Featured Projects
 
-- 🕊️ **[Sandhill Crane Detector](https://github.com/leeanddrew/sandhill-crane-detector)**  
+- 🕊️ **[Sandhill Crane Detector](https://github.com/leeanddrew/ai-counting-cranes)**  
   Object detection pipeline using YOLOv5 + SAHI to identify and count Sandhill Cranes in aerial thermal imagery.  
   Deployed with Streamlit and Docker, integrating MLOps best practices.
 
@@ -33,11 +33,10 @@ I'm a Data Science Master's student at [Harvard SEAS](https://seas.harvard.edu/)
   Interactive dashboards and regression analysis on global well-being metrics (2015–2022) using Tableau, Plotly, and Python.  
   Includes a case study on South Korea’s suicide rate.
 
-- 🔥 **[Wildfire Search Trend Forecasting](https://github.com/leeanddrew/wildfire-search-prediction)**  
-  Sequence modeling of public search interest in wildfires using LSTM-based RNNs.  
+- 🔥 **[Spatiotemporal Analysis of Wildfire Response](https://github.com/leeanddrew/google_wildfire)**  
   Trained on Google Trends data and spatiotemporal features from 12 U.S. DMA regions.
 
-- 🚀 **[Hypersonic STLE Prediction](https://github.com/leeanddrew/stle-prediction-hypersonic-ml)**  
+- 🚀 **[Hypersonic STLE Prediction](https://github.com/leeanddrew/ml-for-hypersonic)**  
   Supervised and deep learning models to predict shock-induced transition locations in hypersonic vehicles.  
   Used sparse pressure sensor data and engineered time-series features to improve R² from 0.79 to 0.89.
 ---
