@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andrew Lee
 
-I'm a Data Science Master's student at [Harvard SEAS](https://seas.harvard.edu/), passionate about building real-world AI applications with clean engineering and measurable impact.
+I'm a Data Science Master's student at [Harvard SEAS](https://seas.harvard.edu/), passionate about building real-world ML applications with clean engineering and measurable impact.
 
 - 🔭 Currently building: an MLOps-enabled crane detection app using YOLOv5 + SAHI
 - 💻 Learning: cloud MLOps (AWS, Docker, CI/CD), Modern NLP with Transformers
