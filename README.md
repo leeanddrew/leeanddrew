@@ -13,12 +13,12 @@ I'm a Data Science Master's student at **Harvard SEAS**, passionate about buildi
 ### 🧰 Tools & Tech
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
+![R](https://img.shields.io/badge/-R-333?style=flat&logo=r)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
 ![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 ![Tableau](https://img.shields.io/badge/-Tableau-333?style=flat&logo=tableau)
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
-![R](https://img.shields.io/badge/-R-333?style=flat&logo=r)
 
 
 ---
